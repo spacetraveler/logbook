@@ -3,10 +3,10 @@
 # ----------------------- #
 
 url: http://spacetraveler.io
-title: SpaceTraveler Logbook
+title: "SpaceTraveler &middot; Logbook"
 subtitle:
 author: SpaceTraveler
-simple_search: https://www.google.com/search
+simple_search:
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
