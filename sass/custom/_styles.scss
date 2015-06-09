@@ -32,10 +32,6 @@ header:before {
   left: 0;
 }
 
-body>nav {
-  border-top: 0;
-}
-
 
 // ------------------------------
 // variables
@@ -154,7 +150,6 @@ $border-style: 2px solid $secondary-text-color;
 
 html {
   @extend .default-font;
-  border-top: 8px solid $accent-color;
   font-size: 125%;
   line-height: 1;
 }
@@ -323,7 +318,6 @@ pre {
 // ------------------------------
 
 nav {
-  border-top: $border-style;
   padding: 12.361px 0;
   padding: 0.618rem 0;
   margin-bottom: 137.069px;
