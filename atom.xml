@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[SpaceTraveler &middot; Logbook]]></title>
+  <link href="http://logbook.spacetraveler.io/atom.xml" rel="self"/>
+  <link href="http://logbook.spacetraveler.io/"/>
+  <updated>2015-06-09T16:54:20-04:00</updated>
+  <id>http://logbook.spacetraveler.io/</id>
+  <author>
+    <name><![CDATA[SpaceTraveler]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
