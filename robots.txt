@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://logbook.spacetraveler.io/sitemap.xml 
