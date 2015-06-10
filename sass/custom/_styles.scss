@@ -21,17 +21,6 @@ to learn about modular scales.
 -------------------------------------------------------------------------
 */
 
-header:before {
-  content: " ";
-  background: #CCC url(/images/spacetraveler.png) center no-repeat;
-  background-size: 40px;
-  height: 70px;
-  width: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-
 
 // ------------------------------
 // variables
@@ -868,5 +857,41 @@ article {
         font-size: 1.357rem; /* 1.184 + 0.173 */
       }
     }
+  }
+}
+
+
+
+
+header:before {
+  content: " ";
+  background: #CCC url(/images/spacetraveler.png) center no-repeat;
+  background-size: 40px;
+  height: 80px;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+html header {
+  margin-top: 120px;
+  text-align: center;
+}
+
+
+@media screen and (max-width: 750px) {
+  body {
+    > header {
+      margin-top: 120px;
+    }
+  }
+
+  nav {
+    overflow: visible;
+  }
+
+  nav ul {
+    border: 0;
   }
 }
