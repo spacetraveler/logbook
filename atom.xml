@@ -4,7 +4,7 @@
   <title><![CDATA[SpaceTraveler &middot; Logbook]]></title>
   <link href="http://logbook.spacetraveler.io/atom.xml" rel="self"/>
   <link href="http://logbook.spacetraveler.io/"/>
-  <updated>2015-06-11T08:02:23-04:00</updated>
+  <updated>2015-07-02T12:14:53+02:00</updated>
   <id>http://logbook.spacetraveler.io/</id>
   <author>
     <name><![CDATA[SpaceTraveler]]></name>
@@ -14,9 +14,18 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Blaa]]></title>
+    <link href="http://logbook.spacetraveler.io/logbook/2015/07/02/blaa/"/>
+    <updated>2015-07-02T08:07:16+02:00</updated>
+    <id>http://logbook.spacetraveler.io/logbook/2015/07/02/blaa</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Navigating the Curious Ruby Orbit]]></title>
     <link href="http://logbook.spacetraveler.io/logbook/2015/06/11/navigating-the-curious-ruby-orbit/"/>
-    <updated>2015-06-11T07:35:15-04:00</updated>
+    <updated>2015-06-11T13:35:15+02:00</updated>
     <id>http://logbook.spacetraveler.io/logbook/2015/06/11/navigating-the-curious-ruby-orbit</id>
     <content type="html"><![CDATA[<p>This space tells of a particular community that evolved from gravity, more precisely Ruby Gravity. According to the SpaceTraveler’s Encyclopedia Ruby Gravity is defined as a natural phenomenon by which all those who affiliate with the Ruby programming language meet one another. Beware, it may result in spirited conversations, fruitful collaboration and sometimes genuine friendships.</p>
 
