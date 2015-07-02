@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[SpaceTraveler &middot; Logbook]]></title>
+  <title><![CDATA[SpaceTraveler]]></title>
   <link href="http://logbook.spacetraveler.io/atom.xml" rel="self"/>
   <link href="http://logbook.spacetraveler.io/"/>
-  <updated>2015-07-02T12:14:53+02:00</updated>
+  <updated>2015-07-02T14:46:08+02:00</updated>
   <id>http://logbook.spacetraveler.io/</id>
   <author>
     <name><![CDATA[SpaceTraveler]]></name>
@@ -14,22 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Blaa]]></title>
-    <link href="http://logbook.spacetraveler.io/logbook/2015/07/02/blaa/"/>
-    <updated>2015-07-02T08:07:16+02:00</updated>
-    <id>http://logbook.spacetraveler.io/logbook/2015/07/02/blaa</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Navigating the Curious Ruby Orbit]]></title>
+    <title type="html"><![CDATA[0.0.0.1 - Navigating the Curious Ruby Orbit.]]></title>
     <link href="http://logbook.spacetraveler.io/logbook/2015/06/11/navigating-the-curious-ruby-orbit/"/>
     <updated>2015-06-11T13:35:15+02:00</updated>
     <id>http://logbook.spacetraveler.io/logbook/2015/06/11/navigating-the-curious-ruby-orbit</id>
-    <content type="html"><![CDATA[<p>This space tells of a particular community that evolved from gravity, more precisely Ruby Gravity. According to the SpaceTraveler’s Encyclopedia Ruby Gravity is defined as a natural phenomenon by which all those who affiliate with the Ruby programming language meet one another. Beware, it may result in spirited conversations, fruitful collaboration and sometimes genuine friendships.</p>
+    <content type="html"><![CDATA[<p>This space tells of a particular community that evolved from gravity, more precisely <i>Ruby Gravity</i>. According to the SpaceTraveler’s Encyclopedia Ruby Gravity is defined as a natural phenomenon by which all those who affiliate with the Ruby programming language meet one another. Beware, it may result in spirited conversations, fruitful collaboration and sometimes genuine friendships.</p>
 
-<p>The SpaceTraveler drifts through the well-known as well as peripheral edges of this community, to find essential and/ or creative applications of the language, while purposely leaving a tangible trace.
+<p>The SpaceTraveler drifts through the well-known as well as peripheral edges of this community, to find essential and/ or creative applications of the language, while purposely leaving a visible trace.
 As with most stories, this adventure too begins with one small step *thdwuuf</p>
 ]]></content>
   </entry>
