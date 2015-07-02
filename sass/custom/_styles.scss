@@ -147,7 +147,6 @@ body {
   -webkit-text-size-adjust: none; /* prevent mobile safari from resizing text */
   background-color: #fff;
   color: $text-color;
-  text-align: center;
   width: 54%;
   margin: 0 auto;
 }
@@ -307,6 +306,7 @@ pre {
 // ------------------------------
 
 nav {
+  text-align: center;
   padding: 12.361px 0;
   padding: 0.618rem 0;
   margin-bottom: 137.069px;
@@ -332,7 +332,6 @@ nav {
   // ----- navigation links -----
 
   ul {
-    float: left;
     line-height: 32.36px;
     line-height: 1.618rem;
 
@@ -340,7 +339,6 @@ nav {
       @extend .font-size-medium;
       @extend .sans-serif-font;
       display: inline;
-      font-weight: bold;
     }
 
     li + li {
@@ -362,13 +360,12 @@ body {
   > header {
     margin: 84.715px 0 52.358px 0;
     margin: 4.236rem 0 2.618rem 0;
-    text-align: left;
+    text-align: center;
 
     h1 {
       font-size: 62.000px;
       font-size: 3.1rem;
       font-weight: bold;
-      text-transform: uppercase;
       margin-bottom: 7.640px;
       margin-bottom: 0.382rem;
 
@@ -540,11 +537,11 @@ article {
     }
 
     p.meta {
-      @extend .font-size-medium;
+      @extend .font-size-small;
       @extend .sans-serif-font;
       color: $secondary-text-color;
       line-height: 1.184rem;
-      text-align: center;
+      text-align: left;
 
       time {
         @extend .margin-bottom-large;
@@ -571,7 +568,6 @@ article {
   h2 {
     font-size: 30.56px;
     font-size: 1.528rem; /* 1.618 - 0.09 */
-    text-transform: uppercase;
     margin-top: 52.358px;
     margin-top: 2.618rem;
     margin-bottom: 9.046px;
@@ -861,31 +857,7 @@ article {
 }
 
 
-
-
-header:before {
-  content: " ";
-  background: #CCC url(/images/spacetraveler.png) center no-repeat;
-  background-size: 40px;
-  height: 80px;
-  width: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-
-html header {
-  margin-top: 120px;
-  text-align: center;
-}
-
-
 @media screen and (max-width: 750px) {
-  body {
-    > header {
-      margin-top: 120px;
-    }
-  }
 
   nav {
     overflow: visible;
