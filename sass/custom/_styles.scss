@@ -147,8 +147,6 @@ body {
   -webkit-text-size-adjust: none; /* prevent mobile safari from resizing text */
   background-color: #fff;
   color: $text-color;
-  width: 54%;
-  margin: 0 auto;
 }
 
 img {
@@ -353,94 +351,97 @@ nav {
 // blog structure
 // ------------------------------
 
-body {
+.wrapper {
+  width: 54%;
+  max-width: 740px;
+  margin: 0 auto;
+}
 
-  // ----- blog header -----
+// ----- blog header -----
 
-  > header {
-    margin: 84.715px 0 52.358px 0;
-    margin: 4.236rem 0 2.618rem 0;
-    text-align: center;
+.wrapper > header {
+  margin: 84.715px 0 52.358px 0;
+  margin: 4.236rem 0 2.618rem 0;
+  text-align: center;
 
-    img {
-      width: 200px;
-      margin-bottom: 3rem;
-    }
+  img {
+    width: 200px;
+    margin-bottom: 3rem;
+  }
 
-    h1 {
-      font-size: 62.000px;
-      font-size: 3.1rem;
-      font-weight: bold;
-      margin-bottom: 7.640px;
-      margin-bottom: 0.382rem;
+  h1 {
+    font-size: 62.000px;
+    font-size: 3.1rem;
+    font-weight: bold;
+    margin-bottom: 7.640px;
+    margin-bottom: 0.382rem;
 
-      a, a:hover {
-        color: $text-color;
-      }
-    }
-
-    h2 {
-      @extend .font-size-larger;
-      @extend .sans-serif-font;
-      color: $secondary-text-color;
+    a, a:hover {
+      color: $text-color;
     }
   }
 
-  // ----- blog content -----
-
-  .blog-index > article {
-    margin-bottom: 137.069px;
-    margin-bottom: 6.853rem; /* for home page post preview */
-  }
-
-  section h1 {
-    display: none;
-  }
-
-  // ----- pagination -----
-
-  .pagination {
+  h2 {
+    @extend .font-size-larger;
     @extend .sans-serif-font;
-    padding: 23.683px 0;
-    padding: 1.184rem 0;
-    margin-bottom: 62px;
-    margin-bottom: 3.1rem;
-    margin-top: -84.715px;
-    margin-top: -4.236rem;
-    border-top: $border-style;
+    color: $secondary-text-color;
+  }
+}
 
-    span, a {
-      border-radius: $border-radius-size;
-      padding: 4.722px 12.361px;
-      padding: 0.236rem 0.618rem;
-    }
+// ----- blog content -----
+
+.blog-index > article {
+  margin-bottom: 137.069px;
+  margin-bottom: 6.853rem; /* for home page post preview */
+}
+
+section h1 {
+  display: none;
+}
+
+// ----- pagination -----
+
+.pagination {
+  @extend .sans-serif-font;
+  padding: 23.683px 0;
+  padding: 1.184rem 0;
+  margin-bottom: 62px;
+  margin-bottom: 3.1rem;
+  margin-top: -84.715px;
+  margin-top: -4.236rem;
+  border-top: $border-style;
+
+  span, a {
+    border-radius: $border-radius-size;
+    padding: 4.722px 12.361px;
+    padding: 0.236rem 0.618rem;
+  }
+
+  a {
+    @extend .button;
+  }
+
+  span {
+    border: 1px solid $accent-color;
+    color: $accent-color;
+  }
+}
+
+// ----- blog footer -----
+
+.wrapper footer {
+  @extend .margin-bottom-larger;
+  clear: both;
+
+  p {
+    @extend .font-size-smallest;
+    @extend .sans-serif-font;
+    color: $secondary-text-color;
+    line-height: 20px;
+    line-height: 1rem;
 
     a {
-      @extend .button;
-    }
-
-    span {
-      border: 1px solid $accent-color;
-      color: $accent-color;
-    }
-  }
-
-  // ----- blog footer -----
-
-  > footer {
-    @extend .margin-bottom-larger;
-    clear: both;
-
-    p {
-      @extend .font-size-smallest;
-      @extend .sans-serif-font;
-      color: $secondary-text-color;
-      line-height: 20px;
-      line-height: 1rem;
-
-      a {
-        text-decoration: underline;
-      }
+      text-decoration: underline;
     }
   }
 }
@@ -689,15 +690,15 @@ article {
 // ------------------------------
 
 @media screen and (max-width: 1200px) {
-  body {
-    width: 75%;
+  .wrapper {
+    width: 70%;
   }
 }
 
 // ------------------------------
 
 @media screen and (max-width: 900px) {
-  body {
+  .wrapper {
     width: 90%;
   }
 }
@@ -710,12 +711,10 @@ article {
   }
 
 
-  body {
-    > header {
-      margin: 44.401px 0;
-      margin: 2.618rem 0;
-      text-align: center;
-    }
+  .wrapper > header {
+    margin: 44.401px 0;
+    margin: 2.618rem 0;
+    text-align: center;
   }
 
 
@@ -757,7 +756,7 @@ article {
 // ------------------------------
 
 @media screen and (max-width: 480px) {
-  body > header {
+  .wrapper > header {
     margin: 32.495px 0;
     margin: 1.916rem 0;
 
