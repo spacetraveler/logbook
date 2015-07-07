@@ -6,8 +6,7 @@ comments: true
 categories:
 ---
 
-Preparations are a highly speculative undertaking. Being well-prepared is more of an easy mindset and less of a list of items with checkmarks behind them.
+Preparations are a highly speculative undertaking. Being well-prepared is more of a mindset and less of a list of items with checkmarks behind them.
 
-Fortunately bags come with physical constraints, space and subsequently weight is limited by the volume of their model. It is helpful to remind yourself that the person packing the bag is likely the one carrying it too.
-I'm looking at journeys of fellow travelers for hints on things that promise to be massively useful. Undoubtedly, the first item I'm throwing into my own backpack is a towel.
+Fortunately bags come with constraints, such as limited volume and putting them on reminds you that the person eventually carrying the weight is yourself. Thus, I'm packing my bag with massively useful things only, such as a towel.
 
