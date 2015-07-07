@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "0.0.0.2 - Travel Guidelines."
+title: "0.0.0.2 - Thoughts on packing a bag."
 date: 2015-07-07 10:51:54 +0200
 comments: true
 categories:
 ---
 
-Thoughts on packing a bag.
 Preparations are a highly speculative undertaking. Being well-prepared is more of an easy mindset and less of a list of items with checkmarks behind them.
 
 Fortunately bags come with physical constraints, space and subsequently weight is limited by the volume of their model. It is helpful to remind yourself that the person packing the bag is likely the one carrying it too.
