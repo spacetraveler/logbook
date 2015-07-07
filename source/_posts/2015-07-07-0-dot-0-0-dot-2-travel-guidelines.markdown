@@ -8,5 +8,4 @@ categories:
 
 Preparations are a highly speculative undertaking. Being well-prepared is more of a mindset and less of a list of items with checkmarks behind them.
 
-Fortunately bags come with constraints, such as limited volume and putting them on reminds you that the person eventually carrying the weight is yourself. Thus, I'm packing my bag with massively useful things only, such as a towel.
-
+Fortunately bags come with constraints, such as limited volume. When putting them on, you are instantly reminded you are the one carrying the weight. Thus, I'm packing my bag with massively useful things only, such as a towel.
