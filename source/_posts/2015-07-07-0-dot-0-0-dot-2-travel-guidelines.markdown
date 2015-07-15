@@ -28,5 +28,5 @@ the Apollo 11 spaceflight. More precisely the trace Neil Armstrong left behind o
 
 Following I'm going to take you on a visual stroll throught the early development of this visual element as well as its iterations.
 
-<img src="images/velement/element_dev.jpg" alt="Element development" height="700px"></br>
+<img src="images/velement/element_dev_down.jpg" alt="Element development" height="700px"></br>
 
