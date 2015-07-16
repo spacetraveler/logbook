@@ -8,7 +8,7 @@ categories:
 
 Some giant leaps begin with one small step. Others begin with covering 6,706 km (i.e. 4166.92 miles), while sitting in a chair in the sky above the North Atlantic Ocean.
 
-<img src="images/travel/washington.jpg" alt="Over the North Atlantic Ocean" width="400px" height="400px">
+<img src="images/travel/washington.jpg" alt="Over the North Atlantic Ocean" width="400" height="400">
 
 On June 7th 2015 the SpaceTraveler crew and I left our base in Berlin and headed for the US of A.
 The crew was intrigued to meet the [Ruby user group in New York City](www.meetup.com/NYC-rb/) and attend [RubyNation](http://www.rubynation.org/) in Washington DC.
