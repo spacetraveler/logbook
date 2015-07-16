@@ -11,7 +11,7 @@ A word of caution:<br>
 This particular wormhole presents a shortcut across the Ruby Orbit into the space of open source work.
 It brings with it the thrill of sudden velocity, high work mania and inspiring contact with exotic matter.
 
-<img src="images/RubyIssues/issues_logo_blck.png" alt="RubyIssue(s)" width="400" height="400">
+<img src="/images/RubyIssues/issues_logo_blck.png" alt="RubyIssue(s)" width="400" height="400">
 
 Follow [RubyIssue(s)](https://rubyissues.ongoodbits.com) to stay in the loop.
 
