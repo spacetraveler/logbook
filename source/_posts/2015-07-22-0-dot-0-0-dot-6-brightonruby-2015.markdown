@@ -1,0 +1,25 @@
+---
+layout: post
+title: "0.0.0.6 - BrightonRuby 2015"
+date: 2015-07-22 12:24:12 +0200
+comments: true
+categories:
+---
+
+Spacetraveler's Robin and Sonja are expected to return to base later this evening – after crossing a substantially shorter distance this time around.</br>
+Nevertheless, lounging with the mostly British Ruby community in Brighton was highly animating and had some extra thrill in store.
+
+On a sidenote, I wish I had known that we would be moving that much closer towards the sun. Contrary to all expectations, packing sunscreen for UK travels is advisable. 20+ at least.
+
+<img src="/images/travel/brighton.jpg" alt="Brighton Pier" width="400" height="400"></br>
+
+Apart from sizzling rays of sun, it was host Andy Croll's positive energy that ignited BrightonRuby's incredibly welcoming atmosphere. Thus, I was pleasantly excited to give a short and sweet Lightning talk about [RubyIssue(s)](http://logbook.spacetraveler.io/logbook/2015/07/16/rubyissue-s/) on stage.
+
+Standing in line for microphone and spotlight amongst wonderful fellow speakers is a remarkable and equally humbling experience.
+Amongst others, [Tatiana Soukiassian](https://twitter.com/binaryberry) made an engaging case for the importance to create a fruitful work environment for Junior Developers. [Rob Miller's](https://twitter.com/robmil) stage debut on the topic of small data munging burst with all kinds of British smartness.</br>
+Asking the question why a majority of women leave 'tech' work environments provides a different perspective on this particular diversity issue. [Kinsey Durham](https://twitter.com/KinseyAnnDurham) investigated exactly that question and shared her findings.</br>
+Lastly, [Avdi Grimm](https://twitter.com/avdi) maneuvered the audience through an intriguing,  somewhat challenging body of thought and carved out a potential future outlook for the Ruby language.
+
+<img src="/images/RubyIssues/issues_presentation.jpg" alt="RubyIssue(s)" width="400" height="400"></br>
+Watch this space for the link to all recordings from the day.</br>
+Also, add a reminder for BrightonRuby 2016 to your calendar.
