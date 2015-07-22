@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "0.0.0.5 RubyIssue(s)"
+title: "0.0.0.5 - RubyIssue(s)"
 date: 2015-07-16 10:55:31 +0200
 comments: true
 categories:
