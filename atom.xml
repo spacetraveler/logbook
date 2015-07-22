@@ -4,7 +4,7 @@
   <title><![CDATA[SpaceTraveler]]></title>
   <link href="http://logbook.spacetraveler.io/atom.xml" rel="self"/>
   <link href="http://logbook.spacetraveler.io/"/>
-  <updated>2015-07-16T17:39:09+02:00</updated>
+  <updated>2015-07-22T13:11:59+02:00</updated>
   <id>http://logbook.spacetraveler.io/</id>
   <author>
     <name><![CDATA[SpaceTraveler]]></name>
@@ -14,7 +14,32 @@
 
   
   <entry>
-    <title type="html"><![CDATA[0.0.0.5 RubyIssue(s)]]></title>
+    <title type="html"><![CDATA[0.0.0.6 - BrightonRuby 2015]]></title>
+    <link href="http://logbook.spacetraveler.io/logbook/2015/07/22/brightonruby-2015/"/>
+    <updated>2015-07-22T12:24:12+02:00</updated>
+    <id>http://logbook.spacetraveler.io/logbook/2015/07/22/brightonruby-2015</id>
+    <content type="html"><![CDATA[<p>Spacetraveler&rsquo;s Robin and Sonja are expected to return to base later this evening – after crossing a substantially shorter distance this time around.</br>
+Nevertheless, lounging with the mostly British Ruby community in Brighton was highly animating and had some extra thrill in store.</p>
+
+<p>On a sidenote, I wish I had known that we would be moving that much closer towards the sun. Contrary to all expectations, packing sunscreen for UK travels is advisable. 20+ at least.</p>
+
+<p><img src="http://logbook.spacetraveler.io/images/travel/brighton.jpg" alt="Brighton Pier" width="400" height="400"></br></p>
+
+<p>Apart from sizzling rays of sun, it was host Andy Croll&rsquo;s positive energy that ignited BrightonRuby&rsquo;s incredibly welcoming atmosphere. Thus, I was pleasantly excited to give a short and sweet Lightning talk about <a href="http://logbook.spacetraveler.io/logbook/2015/07/16/rubyissue-s/">RubyIssue(s)</a> on stage.</p>
+
+<p>Standing in line for microphone and spotlight amongst wonderful fellow speakers is a remarkable and equally humbling experience.
+Amongst others, <a href="https://twitter.com/binaryberry">Tatiana Soukiassian</a> made an engaging case for the importance to create a fruitful work environment for Junior Developers. <a href="https://twitter.com/robmil">Rob Miller&rsquo;s</a> stage debut on the topic of small data munging burst with all kinds of British smartness.</br>
+Asking the question why a majority of women leave &lsquo;tech&rsquo; work environments provides a different perspective on this particular diversity issue. <a href="https://twitter.com/KinseyAnnDurham">Kinsey Durham</a> investigated exactly that question and shared her findings.</br>
+Lastly, <a href="https://twitter.com/avdi">Avdi Grimm</a> maneuvered the audience through an intriguing,  somewhat challenging body of thought and carved out a potential future outlook for the Ruby language.</p>
+
+<p><img src="http://logbook.spacetraveler.io/images/RubyIssues/issues_presentation.jpg" alt="RubyIssue(s)" width="400" height="400"></br>
+Watch this space for the link to all recordings from the day.</br>
+Also, add a reminder for BrightonRuby 2016 to your calendar.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[0.0.0.5 - RubyIssue(s)]]></title>
     <link href="http://logbook.spacetraveler.io/logbook/2015/07/16/rubyissue-s/"/>
     <updated>2015-07-16T10:55:31+02:00</updated>
     <id>http://logbook.spacetraveler.io/logbook/2015/07/16/rubyissue-s</id>
