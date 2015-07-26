@@ -4,7 +4,7 @@
   <title><![CDATA[SpaceTraveler]]></title>
   <link href="http://logbook.spacetraveler.io/atom.xml" rel="self"/>
   <link href="http://logbook.spacetraveler.io/"/>
-  <updated>2015-07-26T14:28:55+02:00</updated>
+  <updated>2015-07-26T14:38:00+02:00</updated>
   <id>http://logbook.spacetraveler.io/</id>
   <author>
     <name><![CDATA[SpaceTraveler]]></name>
@@ -105,9 +105,9 @@ Polishing might improve its appearance, but for now I will resort to good old ph
   
   <entry>
     <title type="html"><![CDATA[0.0.0.3 - RubyNation DC 2015]]></title>
-    <link href="http://logbook.spacetraveler.io/logbook/2015/07/08/rubyissue-s/"/>
+    <link href="http://logbook.spacetraveler.io/logbook/2015/07/08/rubynation2015/"/>
     <updated>2015-07-08T00:00:00+02:00</updated>
-    <id>http://logbook.spacetraveler.io/logbook/2015/07/08/rubyissue-s</id>
+    <id>http://logbook.spacetraveler.io/logbook/2015/07/08/rubynation2015</id>
     <content type="html"><![CDATA[<p>Some giant leaps begin with one small step. Others begin with covering 6,706 km (i.e. 4166.92 miles), while sitting in a chair in the sky above the North Atlantic Ocean.</p>
 
 <p><img src="http://logbook.spacetraveler.io/images/travel/washington.jpg" alt="Over the North Atlantic Ocean"></p>
@@ -129,9 +129,9 @@ Meeting and getting to know different contributors, actors and visitors as well 
   
   <entry>
     <title type="html"><![CDATA[0.0.0.2 - *thdwuuf]]></title>
-    <link href="http://logbook.spacetraveler.io/logbook/2015/07/07/0-dot-0-0-dot-2-travel-guidelines/"/>
+    <link href="http://logbook.spacetraveler.io/logbook/2015/07/07/thdwuuf/"/>
     <updated>2015-07-07T10:51:54+02:00</updated>
-    <id>http://logbook.spacetraveler.io/logbook/2015/07/07/0-dot-0-0-dot-2-travel-guidelines</id>
+    <id>http://logbook.spacetraveler.io/logbook/2015/07/07/thdwuuf</id>
     <content type="html"><![CDATA[<p>Kon’nichi wa and welcome from the Ruby Orbit.</br>
 By the by, *thdwuuf is an Onomatopoeia – a written sound – that describes the noise any kind of boots creates when walking on sand.</p>
 
