@@ -23,7 +23,7 @@ Wherever Ruby gravity takes me, these prints will be left in space. In this way 
 Why bootsteps? I was inspired by the following historic event: </br>
 the Apollo 11 spaceflight. More precisely the trace Neil Armstrong left behind on the Moon on July 21 at 02:56 UTC.
 
-<img src="/images/velement/261252main_21_firstfootprint_946-710.jpg" alt="Footprints on the moon" width="400" height="400"></br>
+<img src="/images/velement/261252main_21_firstfootprint_946-710.jpg" alt="Footprints on the moon"></br>
 [Image Source](http://www.nasa.gov/50th/favpic/moonFootprint.html)
 
 Following I'm going to take you on a visual stroll throught the early development of this visual element as well as its iterations.

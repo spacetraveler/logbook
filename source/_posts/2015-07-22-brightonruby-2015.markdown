@@ -11,7 +11,7 @@ Nevertheless, lounging with the mostly British Ruby community in Brighton was hi
 
 On a sidenote, I wish I had known that we would be moving that much closer towards the sun. Contrary to all expectations, packing sunscreen for UK travels is advisable. 20+ at least.
 
-<img src="/images/travel/brighton.jpg" alt="Brighton Pier" width="400" height="400"></br>
+<img src="/images/travel/brighton.jpg" alt="Brighton Pier"></br>
 
 Apart from sizzling rays of sun, it was host Andy Croll's positive energy that ignited BrightonRuby's incredibly welcoming atmosphere. Thus, I was pleasantly excited to give a short and sweet Lightning talk about [RubyIssue(s)](http://logbook.spacetraveler.io/logbook/2015/07/16/rubyissue-s/) on stage.
 
@@ -20,6 +20,6 @@ Amongst others, [Tatiana Soukiassian](https://twitter.com/binaryberry) made an e
 Asking the question why a majority of women leave 'tech' work environments provides a different perspective on this particular diversity issue. [Kinsey Durham](https://twitter.com/KinseyAnnDurham) investigated exactly that question and shared her findings.</br>
 Lastly, [Avdi Grimm](https://twitter.com/avdi) maneuvered the audience through an intriguing,  somewhat challenging body of thought and carved out a potential future outlook for the Ruby language.
 
-<img src="/images/RubyIssues/issues_presentation.jpg" alt="RubyIssue(s)" width="400" height="400"></br>
+<img src="/images/RubyIssues/issues_presentation.jpg" alt="RubyIssue(s)"></br>
 Watch this space for the link to all recordings from the day.</br>
 Also, add a reminder for BrightonRuby 2016 to your calendar.
